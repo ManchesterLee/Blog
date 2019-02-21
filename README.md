@@ -1,1 +1,1 @@
-# A Blog project base on [`Spring Cloud Alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba)
+# A Blog project base on [Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba)
